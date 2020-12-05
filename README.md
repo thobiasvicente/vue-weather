@@ -1,4 +1,6 @@
-# vue-weather
+# Vue-Weather
+
+### A simple project made in Vue JS + Typescript, which uses an API to know the weather from anywhere in the world
 
 ## Project setup
 ```
